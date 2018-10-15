@@ -13,4 +13,4 @@ You can find 2 `.aa` files, each of which contains all the annotated proteins of
 
 ## Reference genomes
 
-As indicated in the publication, for the *R. varieornatus* we used the assembly [GCA_001949185.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_001949185.1/), while for the *H. dujardini*, the assembly was [GCA_002082055.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_002082055.1/).
+As indicated in the publication, for the *R. varieornatus* we used the assembly [GCA_001949185.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_001949185.1/)(Rvar_4.0), while for the *H. dujardini*, the assembly was [GCA_002082055.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_002082055.1/)(nHd_3.1).
