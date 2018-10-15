@@ -1,4 +1,4 @@
-# Comparative analysis of tardigrade genomes reveals potential mechanisms of tolerance to extreme environmental conditions
+# Manual annotation of tardigrades Datasets
 
 
 This repository provides the data derived from the manual annotation of *Ramazzottius varieornatus* and *Hypsibius dujardini* DNA reparation genes.
