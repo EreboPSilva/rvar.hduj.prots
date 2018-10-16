@@ -5,7 +5,7 @@ This repository provides the data derived from the manual annotation of *Ramazzo
 
 ## Data
 
-You can find 2 `.aa` files, each of which contains all the annotated proteins of one of the 2 species of tardigrades analysed. Also, 2 `.seq` that contains the nucleotic untrasnlated sequence of the same datasets. And lastly, 2 `.gtf`, containing the GFF3 or GTF format of the annotation.
+You can find 2 `.aa` files, each of which contains all the annotated proteins of one of the 2 species of tardigrades analysed. Also, 2 `.seq` that contains the nucleotic untrasnlated sequence of the same datasets. And lastly, 2 `.gff`, containing the GFF3 or GTF format of the annotation.
 
 ```
   'rvar.*' -> Ramazzottius varieornatus sets
